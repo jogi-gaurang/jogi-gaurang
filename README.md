@@ -99,10 +99,6 @@ const gaurang = {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge"/>
-</a>
-
 </p>
 
 ---
