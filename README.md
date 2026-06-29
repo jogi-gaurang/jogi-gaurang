@@ -139,16 +139,6 @@ const gaurang = {
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🎯 Current Focus
 
 - 🚀 Building scalable Laravel applications
@@ -162,14 +152,6 @@ const gaurang = {
 # 💬 Developer Quote
 
 > **"Every programming language is different, but once you start learning, it becomes easier."**
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=4F46E5&style=flat-square"/>
-
-</p>
 
 ---
 
